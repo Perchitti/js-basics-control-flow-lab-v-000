@@ -1,3 +1,6 @@
 // Write your code in this file!
 
-let scuberGreetingForFeet 
+function scuberGreetingForFeet(someValue) {
+
+  
+}
