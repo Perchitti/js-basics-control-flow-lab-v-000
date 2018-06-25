@@ -21,7 +21,7 @@ function ternaryCheckCity(city) {
   if (city = "NYC"){
     result = "Ok, sounds good.";
   }
-  else {
+  else if {
     result = "No go."
   }
   return result
