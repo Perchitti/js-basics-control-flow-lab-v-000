@@ -12,4 +12,5 @@ function scuberGreetingForFeet(someValue) {
     else if (someValue > 2500) {
       result = 'No can do'
     }
+    return result
   }
