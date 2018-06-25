@@ -10,7 +10,16 @@ function scuberGreetingForFeet(someValue) {
       result = "I will gladly take your thirty bucks.";
     }
     else if (someValue > 2500) {
-      result = "No can do."
+      result = "No can do.";
     }
     return result
   }
+
+function ternaryCheckCity(city) {
+
+  let result
+  if (city = "NYC"){
+    result = "Ok, sounds good.";
+  }
+    result = "No go."
+}
