@@ -14,8 +14,3 @@ function scuberGreetingForFeet(someValue) {
     }
     return result
   }
-
-  switch (ternaryCheckCity) {
-    case 'New York'
-    response = "Ok, sounds good."
-  }
